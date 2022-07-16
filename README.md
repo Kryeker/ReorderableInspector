@@ -2,7 +2,7 @@
 
 Automatically turn arrays/lists into ReorderableLists in Unity inspectors. Inspired by [Alejandro Santiago's implementation](https://medium.com/developers-writing/how-about-having-nice-arrays-and-lists-in-unity3d-by-default-e4fba13d1b50).
 
-![Sortable Array](./Docs/sortable-array.png)
+![Sortable Array](./Docs~/sortable-array.png)
 
 This is an editor enhancement that gives you nicer inspector features without having to write additional code. Easily rearrange arrays, add buttons for utility functions, and and edit linked `ScriptableObjects` right in your GameObject's inspector.
 
@@ -60,7 +60,7 @@ public class ContextMenuTest : MonoBehaviour
 }
 ```
 
-![Context Menu](./Docs/context-menu.png)
+![Context Menu](./Docs~/context-menu.png)
 
 ### Inline `ScriptableObject` editing
 

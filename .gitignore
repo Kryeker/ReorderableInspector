@@ -29,5 +29,3 @@ sysinfo.txt
 *.unitypackage
 /.vs
 .vshistory/
-/Docs/*.meta
-/*.meta
