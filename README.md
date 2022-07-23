@@ -8,12 +8,12 @@ This is an editor enhancement that gives you nicer inspector features without ha
 
 ## Installation
 
-Download the UnityPackage from the [latest releases](https://github.com/ChemiKhazi/ReorderableInspector/releases) and import it into Unity. The directory can be moved after being imported.
-
-Or use [Git dependencies](https://docs.unity3d.com/Manual/upm-git.html) for latest version:\
+- Download the UnityPackage from the [latest releases](https://github.com/ChemiKhazi/ReorderableInspector/releases) and import it into Unity. The directory can be moved after being imported.
+- Or use [Git dependencies](https://docs.unity3d.com/Manual/upm-git.html) for latest version:\
 Add this line to `Packages/manifest.json` file 
-
-    "com.subjectnerd.reorderableinspector": "https://github.com/Kryeker/ReorderableInspector.git",
+```javascript  
+"com.subjectnerd.reorderableinspector": https://github.com/Kryeker/ReorderableInspector.git",
+```
 
 ## Usage
 
